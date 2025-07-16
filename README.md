@@ -2,9 +2,8 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats-git-master-meiwatas-projects.vercel.app/api/top-langs/?username=meIwata&count_private=true&layout=compact&card_width=450"/>
+<img src="https://github-readme-stats-git-master-meiwatas-projects.vercel.app/api/top-langs/?username=meIwata&count_private=true&layout=compact&card_width=350&hide=html,css&langs_count=15"/>
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=meIwata" alt="GitHub Stats"/>)
 </div>
 
 ---
